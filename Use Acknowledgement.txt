@@ -1,0 +1,3 @@
+I used AI to get some ideas and understand the instructions.
+It helped me with some parts of the code and explained how the methods and recursion work.
+I also used it to understand my errors and learn how to fix them.
